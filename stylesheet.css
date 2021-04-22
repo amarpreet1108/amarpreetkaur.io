@@ -1,0 +1,174 @@
+.items{
+    color:rgb(243, 234, 234);
+   float:left;
+    padding-left:14px ;
+    padding-top:15px
+}
+
+
+.main {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    padding-left:30px;
+    padding-top:15px;
+   
+    padding-right:15px;
+   }
+.header{
+    background-image: url("https://www.neilredfern.com/wp-content/uploads/2017/10/indian-wedding-photography-manchester-13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    color:white;
+    list-style:none;
+}
+.section{
+    padding-top:300px;
+    padding-left:200px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100px;
+    list-style:none;
+
+}
+.items li:hover{
+    color:rgb(233, 14, 14);
+}
+.header h2:hover{
+      opacity: 70%;
+}
+.tagline{
+   
+    padding-left:200px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    list-style:none;
+
+}
+
+.header h2{
+   background-color:rgb(26, 235, 26);
+  margin-right: 1390px;
+   padding-left:90px;
+  margin-left:250px;
+  padding-top:25px;
+  padding-bottom:25px;
+  border-radius:5px;
+}
+
+.items li {
+    list-style: none;
+    font-size: 20px;
+   padding-right:200px;
+   float: left;
+
+}
+
+.header-items {
+    font-size: 70px;
+    color: rgb(247, 239, 239);
+    padding-top:60px;
+    
+   padding-top:4px;
+   margin-left: 600px;
+}
+    
+.content li {
+    font-size: 35px;
+    color:white;
+    list-style:disc;
+    padding-right: 2px;
+    padding-bottom:15px;
+    margin-left:600px;
+}
+.content{
+    background-image: url("https://lh6.googleusercontent.com/proxy/KYpNyQLAELeREV6QB9xOWAMHqK7xyulYCjHYscEAi2OXT7RdQruDJ6_SwasTQEjq1GTxQ7oXiy5wIO9ipHDfKdXcg8z9ghYEzus7p3kADs7clPJ6JTzjQ71wyFNHGM9F2_9qR-zNyIZc_gNw=w1200-h630-p-k-no-nu");
+    background-size: cover;
+    height: 1000px;
+    opacity:60px;
+}
+
+.contents{
+    padding:70px;
+}
+.contents p{
+    text-align:center;
+    font-weight: bold;
+    font-family: cursive;
+    font-size:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+    color:lightsalmon;
+}
+.contents img{
+    height:350px;
+    width:450px;
+   
+}
+.contact{
+    font-size:40px;
+   
+    background-color: rgb(197, 191, 193);
+    padding:20px;
+   
+}
+.items{
+    float:left;
+    font-size:20px;
+}
+  .team p{
+    font-family:inherit;
+    font-size:40px;
+    color:rgb(255, 122, 155);
+    padding-left:500px;
+    font-weight:bold;
+    padding-top:70px;
+    
+  }
+  .contact p{
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .contacts{
+      background-color: rgb(42, 230, 42);
+      padding-left: 7px;
+      border-radius:4px;
+  }
+.txt{
+    height:50px;
+    font-size:12px;
+    float:left;
+    margin-right:300px;
+    margin-left:20px;
+
+}
+    .tem{
+       font-family: Georgia, Times, 'Times New Roman', serif; 
+    font-size:70px;
+    text-align:center;
+    color:rgb(17, 16, 16);
+    padding-top:70px;
+    } 
+    .team a{
+        
+        padding-left:500px;
+        float:left;
+    }
+    .team h2{
+      
+        padding-left:500px;
+        color:grey;
+        font-size:20px;
+       
+    }
+   
+       .team a:hover{
+          color:darkred;
+
+      }   
+      .image{
+   
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20210331/pngtree-floral-pink-border-background-image_596945.jpg");
+    width:100%;
+    height:900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
